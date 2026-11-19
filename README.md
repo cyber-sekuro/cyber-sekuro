@@ -15,17 +15,36 @@ A full-stack web application developed as a final software engineering bootcamp 
 
 **Live application:** [g-rota.com](https://g-rota.com) · **[Project documentation](https://github.com/cyber-sekuro/SEC-12-Assignment3)**
 
-### BYDEDS — Web Application
+### BYDEDS — Business Operations & Management System
 
-An independently developed and deployed web application, with an ongoing focus on modular frontend structure, maintainability and system integration.
+BYDEDS is an independently developed and deployed modular web application designed to centralize daily business operations, workforce management, inventory control and sales analytics.
 
-- React and Vite frontend
-- Iterative development and production deployment
-- Feature organization and component-based architecture
+**Key Features**
+
+| Module | Functionality |
+| --- | --- |
+| Sales Dashboard & Analytics | Monitor sales performance, revenue and business trends. |
+| Staff Management | Manage staff profiles, shift schedules and duty rosters. |
+| Leave Management | Manage leave applications and approval workflows. |
+| Inventory Management | Track stock levels and inventory movements. |
+| Sales & Product Management | Manage products, pricing and sales records. |
+| Operational Expenses (OPEX) | Record and monitor business expenses. |
+| Reporting & Data Export | Review operational reports and export data to Excel. |
+| Authentication & Access Control | Manage user accounts and role-based access. |
+| Internal Communication | Support staff announcements and operational coordination. |
+
+**Engineering Focus**
+
+- React and Vite
+- Modular, component-based frontend architecture
+- Database integration and access management
+- Maintainability, production deployment and continuous improvement
+
+**Status:** Live — Active development
 
 **Live application:** [bydeds.my](https://www.bydeds.my)
 
-The source repository is private. Further public project documentation is planned.
+The application source code is maintained in a private repository.
 
 ## Other Projects
 
