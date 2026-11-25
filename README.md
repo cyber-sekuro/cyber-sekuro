@@ -48,8 +48,8 @@ The application source code is maintained in a private repository.
 
 ## Other Projects
 
-- [Medical Form Automation](https://github.com/cyber-sekuro/medical-form-automation) — public repository
-- Portfolio Website — private repository
+- [Medical Form Automation](https://github.com/cyber-sekuro/medical-form-automation) - public repository
+- Portfolio Website - private repository
 
 ## Software Engineering Conversion Bootcamp
 
