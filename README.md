@@ -4,7 +4,7 @@ I'm an OT cybersecurity engineer with a background in industrial automation, con
 
 ## Featured Projects
 
-### G-ROTA — Vehicle Service Booking System
+### G-ROTA : Vehicle Service Booking System
 
 A full-stack web application developed as a final software engineering bootcamp project and deployed as a working online system.
 
@@ -15,7 +15,7 @@ A full-stack web application developed as a final software engineering bootcamp 
 
 **Live application:** [g-rota.com](https://g-rota.com) · **[Project documentation](https://github.com/cyber-sekuro/SEC-12-Assignment3)**
 
-### BYDEDS — Business Operations & Management System
+### BYDEDS : Business Operations & Management System
 
 BYDEDS is an independently developed and deployed modular web application designed to centralize daily business operations, workforce management, inventory control and sales analytics.
 
@@ -40,7 +40,7 @@ BYDEDS is an independently developed and deployed modular web application design
 - Database integration and access management
 - Maintainability, production deployment and continuous improvement
 
-**Status:** Live — Active development
+**Status:** Live - Active development
 
 **Live application:** [bydeds.my](https://www.bydeds.my)
 
